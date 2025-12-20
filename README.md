@@ -1,6 +1,6 @@
 Build a Survey Form
 
-<img width="140" height="185" alt="BuildASurveyForm" src="https://github.com/user-attachments/assets/9bd72549-3f89-470b-a2d6-57516b020820" />
+<img width="280" height="370" alt="BuildASurveyForm" src="https://github.com/user-attachments/assets/9bd72549-3f89-470b-a2d6-57516b020820" />
 
 
 This course teaches the fundamentals of HTML and CSS, including modern layout, design, accessibility, and responsive web development. You'll build practical projects and gain the skills to create professional, user-friendly webpages.
